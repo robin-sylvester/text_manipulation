@@ -1,2 +1,2 @@
-# text_manipulation_php
+# text_manipulation
 few different algorithms for text transforming -> word permutation, reversing the words, reversing the sentences, ...
