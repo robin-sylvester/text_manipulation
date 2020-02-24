@@ -90,8 +90,8 @@ if(isset($_GET['sentences']) && isset($_GET['vowels']) && isset($_GET['a']) && i
 </div>
 
 <div class="footer">
-  <p>Created by: Your name</p>
-  Contact information: <a href="email_address">email</a></p>
+  <p>Created by: robin</p>
+  Contact information: <a href="mailto:email">email</a></p>
 </div>
 
 </body>
